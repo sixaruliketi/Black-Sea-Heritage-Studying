@@ -8,9 +8,10 @@ import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
-import com.example.myapplication.SharedPreferencesUtils.getLanguagePosition
-import com.example.myapplication.SharedPreferencesUtils.setLanguageCode
-import com.example.myapplication.SharedPreferencesUtils.setLanguagePosition
+import com.example.myapplication.LanguageChangeTools.LocaleHelper
+import com.example.myapplication.LanguageChangeTools.SharedPreferencesUtils.getLanguagePosition
+import com.example.myapplication.LanguageChangeTools.SharedPreferencesUtils.setLanguageCode
+import com.example.myapplication.LanguageChangeTools.SharedPreferencesUtils.setLanguagePosition
 import com.example.myapplication.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {

@@ -1,11 +1,11 @@
-package com.example.myapplication
+package com.example.myapplication.LanguageChangeTools
 
 import android.annotation.TargetApi
 import android.content.Context
 import android.content.res.Configuration
 import android.content.res.Resources
 import android.os.Build
-import com.example.myapplication.SharedPreferencesUtils.getLanguageCode
+import com.example.myapplication.LanguageChangeTools.SharedPreferencesUtils.getLanguageCode
 import java.util.Locale
 
 object LocaleHelper {
