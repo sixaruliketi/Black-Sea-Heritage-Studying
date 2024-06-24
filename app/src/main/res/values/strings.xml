@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name" translatable="false">BlackSeaHeritage</string>
+    <string name="app_name">BlackSeaHeritage</string>
     <string name="testing_text">Test! Test!</string>
     <string name="english" translatable="false">english</string>
     <string name="georgian" translatable="false">ქართული</string>
